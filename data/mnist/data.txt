@@ -1,0 +1,2 @@
+ダウンロード先URL
+http://yann.lecun.com/exdb/mnist/
